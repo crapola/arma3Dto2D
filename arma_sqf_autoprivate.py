@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # SQF autoprivate
-# Collect all private variables in the script
+# Collect all private variables in the script.
 #-------------------------------------------------------------------------------
 from tkinter import Tk
 import re
